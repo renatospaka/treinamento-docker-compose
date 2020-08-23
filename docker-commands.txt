@@ -1,0 +1,5 @@
+# criar o contêiner
+docker build -t php-pdo-treinamento .
+
+# subir os contêineres
+docker-compose up
